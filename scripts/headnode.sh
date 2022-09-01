@@ -1,7 +1,7 @@
 #!/bin/bash
 
-node1_txt="/home/node1/test1/test1.txt"
-node2_txt="/home/node1/test2/test2.txt"
+node1_txt="/shared/node0.txt"
+node2_txt="/shared/node1.txt"
 
 
 # Node1
